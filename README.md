@@ -6,11 +6,7 @@ by [Eugene Duboviy](https://duboviy.github.io/)
 
 A sandbox for trying out game development project prototypes
 
-## Installation:
 
-```
-pip install https://github.com/duboviy/gamedev/archive/master.zip
-```
 
 <img src="https://raw.githubusercontent.com/duboviy/gamedev/master/Panda3D/img/1.png">
 <img src="https://raw.githubusercontent.com/duboviy/gamedev/master/Panda3D/img/2.png">
