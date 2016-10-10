@@ -6,6 +6,21 @@ by [Eugene Duboviy](https://duboviy.github.io/)
 
 Mini NodeJS Akinator App that tries to guess the animal
 
+## Installation:
+
+Install NodeJS with npm and install dependencies using:
+```
+$ npm install
+```
+
+## Usage:
+
+Just execute:
+```
+$ node app.js
+```
+And open [link](http://127.0.0.1:3000/) in your browser:
+http://127.0.0.1:3000/
 
 ## License
 
