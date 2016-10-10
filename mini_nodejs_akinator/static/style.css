@@ -1,0 +1,10 @@
+a {
+  margin: 5px;
+  padding: 3px;
+  border-radius: 3px;
+  border: 1px solid gray;
+}
+
+span {
+  margin: 5px;
+}

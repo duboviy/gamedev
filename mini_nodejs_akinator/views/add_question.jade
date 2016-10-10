@@ -1,0 +1,17 @@
+html
+    head
+        title New animal
+        style(src="style.css")
+    body
+        h1 New animal
+        form(method="post", action="")
+          p Which animal you have wished?
+            input(name="new_animal", type="text")
+          p What question distinguishes animal #{animal} from that what you wished?
+            input(name="new_question", type="text")
+          p What is the answer to this question for animal #{animal}?
+            span Yes
+              input(type="radio", name="right_answer", value="yes", checked=true)
+            span No
+              input(type="radio", name="right_answer", value="no")
+          input(type="submit", value="Save")

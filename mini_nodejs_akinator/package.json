@@ -1,0 +1,16 @@
+{
+  "name": "animals",
+  "version": "0.0.1",
+  "description": "Mini NodeJS Akinator App that tries to guess the animal",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Eugene Duboviy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "body-parser": "^1.15.0"
+  }
+}

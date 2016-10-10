@@ -1,18 +1,10 @@
-<h1><img src="https://raw.githubusercontent.com/duboviy/gamedev/master/logo.png" height=85 alt="logo" title="logo"> gamedev</h1>
+<h1><img src="https://raw.githubusercontent.com/duboviy/gamedev/master/logo.png" height=85 alt="logo" title="logo"> NodeJS Akinator</h1>
 
 by [Eugene Duboviy](https://duboviy.github.io/)
 
- [![Code Health](https://landscape.io/github/duboviy/gamedev/master/landscape.svg?style=flat)](https://landscape.io/github/duboviy/gamedev/master) [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/duboviy/gamedev/) [![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/duboviy/gamedev/pulls) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/duboviy/gamedev/)
+[![Code Health](https://landscape.io/github/duboviy/gamedev/master/landscape.svg?style=flat)](https://landscape.io/github/duboviy/gamedev/master) [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/duboviy/gamedev/) [![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/duboviy/gamedev/pulls) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/duboviy/gamedev/)
 
-A sandbox for trying out game development project prototypes
-
-
-
-<img src="https://raw.githubusercontent.com/duboviy/gamedev/master/Panda3D/img/1.png">
-<img src="https://raw.githubusercontent.com/duboviy/gamedev/master/Panda3D/img/2.png">
-<img src="https://raw.githubusercontent.com/duboviy/gamedev/master/Panda3D/img/3.png">
-<img src="https://raw.githubusercontent.com/duboviy/gamedev/master/Panda3D/img/4.png">
-<img src="https://raw.githubusercontent.com/duboviy/gamedev/master/Panda3D/img/5.png">
+Mini NodeJS Akinator App that tries to guess the animal
 
 
 ## License
